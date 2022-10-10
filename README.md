@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 
-I'm a certified ISTQB Software Quality Engineer and Automation Test Engineer 
-Experienced with two years in software development field 
+I'm a certified ISTQB Software Quality and Automation Test Engineer 
+Experienced with one year in software development field 
 
 ![Logo](https://www.beningo.com/wp-content/uploads/2016/03/AdobeStock_100096286.jpeg)
 
