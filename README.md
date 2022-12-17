@@ -39,9 +39,9 @@ Experienced with one year in software development field
 
 👩‍💻 I'm currently working on Automation Project using Selenium
 
-🧠 I'm currently Playwright 
+🧠 I'm currently learning Playwright 
 
-🤔 I'm looking for Working freelance
+🤔 I'm looking for Working as a freelancer
 
 💬 Ask me about Manual Testing and ISTQB
 
