@@ -37,9 +37,11 @@ Experienced with one year in software development field
 ## Other Common Github Profile Sections
  👀 I’m interested in Software Engineering
 
-👩‍💻 I'm currently working on Automation Project using Selenium
+👩‍💻 I'm currently working on Automation Project using Selenium and Appium
 
-🧠 I'm currently learning Playwright 
+👩‍💻 I'm have an very good knowledge in Playwright 
+
+🧠 I'm currently learning cypress   
 
 🤔 I'm looking for Working as a freelancer
 
