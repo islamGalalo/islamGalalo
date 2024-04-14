@@ -7,18 +7,15 @@ I'm a certified ISTQB Software Quality and Automation Test Engineer
 Experienced with one year in software development field 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-## Other Common Github Profile Sections
- 👀 I’m interested in Software Engineering
+ 👀 I’m interested in Software QA & Automation
 
 👩‍💻 I'm currently working on Automation Project using Selenium and Appium
 
-👩‍💻 I'm have an very good knowledge in Playwright 
+👩‍💻 I'm have an very good knowledge in Playwright and Cypress
 
-🧠 I'm currently learning cypress   
+🧠 I'm currently learning DevOps   
 
-🤔 I'm looking for Working as a freelancer
-
-💬 Ask me about Manual Testing and ISTQB
+🤔 I'm looking for Working Remotely
 
 🌱 Learning German 
 
