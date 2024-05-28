@@ -10,7 +10,7 @@ I'm a certified **ISTQB** Software QA and Automation Test Engineer , Experienced
 
 👩‍💻 I'm currently working on Automation Project using Selenium and Appium
 
-👩‍💻 I'm have an very good knowledge in Playwright and Cypress
+👩‍💻 I'm have a good knowledge in Playwright and Cypress
 
 🧠 I'm currently learning DevOps   
 
