@@ -3,18 +3,16 @@
 
 ## 🚀 About Me
 
-I'm a certified **ISTQB** Software QA and Automation Test Engineer , Experienced with 2+ years in software Testing 
+I'm a certified **ISTQB** Software QA and Automation Test Engineer , Experienced with 3+ years in software Testing 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 ## More !!
  👀 I’m interested in Software QA & Automation
 
 👩‍💻 I'm currently working on Automation Project using Selenium and Appium
 
-👩‍💻 I'm have a good knowledge in Playwright and Cypress
+👩‍💻 I have a good knowledge with Playwright and Cypress
 
-🧠 I'm currently learning DevOps   
-
-🤔 I'm looking for Working Remotely
+🧠 I'm currently learning CI/CD and some DevOps tools   
 
 🌱 Learning German 
 
